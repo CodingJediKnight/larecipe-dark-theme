@@ -50,7 +50,8 @@ a:hover {
 }
 
 .documentation p {
-    margin-bottom: 15px;
+    margin-bottom: 1rem;
+    line-height: 1.5;
 }
 
 /**************************************/
